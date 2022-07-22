@@ -1,0 +1,17 @@
+To create package.json
+
+npm init 
+
+package.json --> project dependeencies with their details
+package-lock.json --> takes care of verion of packages
+lodash --> one of the packages in npm used in server.js
+
+access all with _ 
+
+we use ".use" in express to create middleware and fire middleware functions
+
+view engines similar to HTML use to inject dynamic data
+
+
+
+

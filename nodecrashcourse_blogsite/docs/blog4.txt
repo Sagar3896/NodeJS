@@ -1,0 +1,49 @@
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
+
+Let's break it down. We are checking if the hook is receiving a user object. After that, we are fetching a list of our users from a file called users.json and filtering it in order to find the user with the id that we need.
+
+Then, once we have the necessary data, we are saving it the userData state of our hook. In the end are returning the userData.
+
+Note: This is a contrived example for illustrative purpose only! Data-fetching in the real world is much more complicated. If you are interested in the topic, check out my article on how to create a great data-fetching setup with ReactQuery, Typescript and GraphQL.
