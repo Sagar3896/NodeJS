@@ -1,0 +1,22 @@
+Welcome to eSamwaad - a Realtime ChatApp built with NodeJS
+
+eSamwaad - aThis is simple chat application built with NodeJS and library "Socket.io"
+
+PFB steps to run them :
+
+1. Clone the project
+2. Go to folder nodeServer
+3. install packages 
+
+npm install
+
+4. Run the  file "Index.js"  
+
+nodemon  Index.js
+
+5. Open the "Index.html"  in any browser
+6. Open the same  URL in different tabs and start chatting by entring your name.
+
+And thats it !!
+
+Thank You !!
